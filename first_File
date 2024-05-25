@@ -1,4 +1,8 @@
 Hello Form DevOps DPIE
 this 2nd line
 this is 3rd line
+<<<<<<< HEAD
 
+=======
+this is 4th line
+>>>>>>> 127c2c987b8a85015058fda9de7da1801399395e
